@@ -1,5 +1,5 @@
 
-# E-commerce site with html,css and javascript
+# E-commerce website with html,css and javascript
 
 I am sharing the source code of this 100% responsive site with you.
 
